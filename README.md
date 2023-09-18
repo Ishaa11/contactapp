@@ -8,8 +8,8 @@ This app has a contact list , search contact functionality, delete , add , updat
 cd contact-app \
 npm start \
 cd server-api \
-npm start (server will start at port 3006)\ 
-\
+npm start (server will start at port 3006) \ 
+
 ![Screenshot (6)](https://github.com/Ishaa11/contactapp/assets/64044485/171adedb-30bf-4d69-8e7f-704b8b3b8bf6)
 \
 ![Screenshot (7)](https://github.com/Ishaa11/contactapp/assets/64044485/eb237c3d-e67c-444c-90d8-e9d5decf0197)
